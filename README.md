@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Project contribution**
 
-- 🤝 I’m looking for help with **People Goals**
-
 - 💬 Ask me about **html , css ,javascript ,reactjs ,nodejs**
 
 - 📫 How to reach me **Chayansoni72@gmail.com**
