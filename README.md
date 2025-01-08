@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Flyanytrip](https://www.flyanytrip.com/index2.html)
 
+- 💬 Ask me about **html , css ,javascript ,reactjs ,nodejs**
+
 - 🌱 I’m currently learning **SQL & NO SQL database , php**
 
 - 👯 I’m looking to collaborate on **Project contribution**
-
-- 💬 Ask me about **html , css ,javascript ,reactjs ,nodejs**
 
 - 📫 How to reach me **Chayansoni72@gmail.com**
 
