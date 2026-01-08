@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chayan soni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Flyanytrip](https://www.flyanytrip.com/index2.html)
+- 🔭CS student | WordPress Developer | Open-source contributor | PHP & JS
 
-- 💬 Ask me about **html , css ,javascript ,reactjs ,nodejs**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NodeJS**
 
 - 🌱 I’m currently learning **SQL & NO SQL database , php**
 
